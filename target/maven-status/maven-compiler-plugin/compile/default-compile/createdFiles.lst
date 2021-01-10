@@ -1,0 +1,17 @@
+com/gendronPortfolio/inventoryManagement/repository/OrderRepository.class
+com/gendronPortfolio/inventoryManagement/util/MembershipLevel.class
+com/gendronPortfolio/inventoryManagement/repository/ProductRepository.class
+com/gendronPortfolio/inventoryManagement/entity/Order.class
+com/gendronPortfolio/inventoryManagement/service/CustomerService.class
+com/gendronPortfolio/inventoryManagement/service/OrderService.class
+com/gendronPortfolio/inventoryManagement/controller/ProductController.class
+com/gendronPortfolio/inventoryManagement/repository/AddressRepository.class
+com/gendronPortfolio/inventoryManagement/controller/OrderController.class
+com/gendronPortfolio/inventoryManagement/util/OrderStatus.class
+com/gendronPortfolio/inventoryManagement/entity/Address.class
+com/gendronPortfolio/inventoryManagement/entity/Customer.class
+com/gendronPortfolio/inventoryManagement/repository/CustomerRepository.class
+com/gendronPortfolio/inventoryManagement/entity/Product.class
+com/gendronPortfolio/inventoryManagement/App.class
+com/gendronPortfolio/inventoryManagement/controller/CustomerController.class
+com/gendronPortfolio/inventoryManagement/service/ProductService.class

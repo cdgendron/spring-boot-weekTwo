@@ -1,0 +1,17 @@
+/Users/CalebGendron/eclipse-workspace/inventoryManagement/src/main/java/com/gendronPortfolio/inventoryManagement/controller/ProductController.java
+/Users/CalebGendron/eclipse-workspace/inventoryManagement/src/main/java/com/gendronPortfolio/inventoryManagement/service/ProductService.java
+/Users/CalebGendron/eclipse-workspace/inventoryManagement/src/main/java/com/gendronPortfolio/inventoryManagement/repository/ProductRepository.java
+/Users/CalebGendron/eclipse-workspace/inventoryManagement/src/main/java/com/gendronPortfolio/inventoryManagement/entity/Product.java
+/Users/CalebGendron/eclipse-workspace/inventoryManagement/src/main/java/com/gendronPortfolio/inventoryManagement/service/OrderService.java
+/Users/CalebGendron/eclipse-workspace/inventoryManagement/src/main/java/com/gendronPortfolio/inventoryManagement/util/OrderStatus.java
+/Users/CalebGendron/eclipse-workspace/inventoryManagement/src/main/java/com/gendronPortfolio/inventoryManagement/entity/Order.java
+/Users/CalebGendron/eclipse-workspace/inventoryManagement/src/main/java/com/gendronPortfolio/inventoryManagement/repository/AddressRepository.java
+/Users/CalebGendron/eclipse-workspace/inventoryManagement/src/main/java/com/gendronPortfolio/inventoryManagement/service/CustomerService.java
+/Users/CalebGendron/eclipse-workspace/inventoryManagement/src/main/java/com/gendronPortfolio/inventoryManagement/util/MembershipLevel.java
+/Users/CalebGendron/eclipse-workspace/inventoryManagement/src/main/java/com/gendronPortfolio/inventoryManagement/repository/OrderRepository.java
+/Users/CalebGendron/eclipse-workspace/inventoryManagement/src/main/java/com/gendronPortfolio/inventoryManagement/entity/Address.java
+/Users/CalebGendron/eclipse-workspace/inventoryManagement/src/main/java/com/gendronPortfolio/inventoryManagement/App.java
+/Users/CalebGendron/eclipse-workspace/inventoryManagement/src/main/java/com/gendronPortfolio/inventoryManagement/entity/Customer.java
+/Users/CalebGendron/eclipse-workspace/inventoryManagement/src/main/java/com/gendronPortfolio/inventoryManagement/controller/OrderController.java
+/Users/CalebGendron/eclipse-workspace/inventoryManagement/src/main/java/com/gendronPortfolio/inventoryManagement/controller/CustomerController.java
+/Users/CalebGendron/eclipse-workspace/inventoryManagement/src/main/java/com/gendronPortfolio/inventoryManagement/repository/CustomerRepository.java
